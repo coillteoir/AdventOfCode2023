@@ -6,6 +6,7 @@ The main objective I had with this pool of languages was to have both familiar a
 mainly so I can challenge myself both in the sense of the problems submitted but also by twisting my brain to work with different styles of programming like forth, haskell, rust, and fortran.
 
 ### Day 1: Javascript
+JavaScript provided a fun challenge, the standard library makes it easy to solve problems like this in nice ways.
 ### Day 2
 ### Day 3
 ### Day 4
